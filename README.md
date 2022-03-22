@@ -89,6 +89,9 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=iqwertz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<div align="center">
+![GIF](https://raw.githubusercontent.com/iqwertz/iqwertz/output/github-contribution-grid-snake.svg)
+</div>
 <br/>  
 
   
@@ -115,5 +118,3 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
