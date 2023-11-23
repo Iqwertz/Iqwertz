@@ -90,7 +90,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=iqwertz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 
-![GIF](https://raw.githubusercontent.com/iqwertz/iqwertz/output/github-contribution-grid-snake.svg)
+![GIF](https://raw.githubusercontent.com/iqwertz/iqwertz/output/github-contribution-grid-snake-dark.svg)
 
 <br/>  
 
